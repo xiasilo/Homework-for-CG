@@ -1,2 +1,2 @@
-# IslandCrysis
-CG final project
+# 计算机图形学作业代码汇总
+计算机图形学作业代码汇总
